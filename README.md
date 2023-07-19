@@ -4,8 +4,8 @@
 
 ### You can watch this [Video](https://youtu.be/UaNftXlmZUk) for more info
 
-![photo1688785311](https://github.com/Coolmangamer786/Awesome-Website/assets/81376754/7440fa78-cfaf-4866-b7bc-6a19c121bf72)
 
+![git-commands-for-beginners-3](https://github.com/Snehasis4321/Awesome-Website/assets/96995340/d1e2dabb-d517-4ba2-ad5f-6511016f5fbe)
 
 
 here all the 15 git commands have been discussed 
